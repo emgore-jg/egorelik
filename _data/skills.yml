@@ -1,36 +1,27 @@
-header: Say something about what you're good at
-
-subheader: Give some more context
+header: I'm good at a lot of things! Read about them here.
 
 skill_list:
-  - name: Skill 1
-    description: A quick sentence or two describing your skill
+  - name: Friendly and Charismatic
+    description: I am incredible at ordering take out. You will never meet someone who places a takeout order better than me.
 
-  - name: Skill 2
-    description: A quick sentence or two describing your skill
 
-  - name: Skill 3
-    description: A quick sentence or two describing your skill
+  - name: Imaginative and Creative
+    description: Have you ever seen a person master and drop a hobby within a blink of an eye? Not yet! Come talk to me.
 
 #If you have certifications, talk about them here
 certifications:
-  - name: Certification 1
+  - name: Day to Day Operations
     topics:
-      - Topic 1A
-      - Topic 1B
-      - Topic 1C
-      - Topic 1D
+      - Setting off smoke alarms while cooking
+      - Hitting curbs while driving
 
-  - name: Certification 2
+  - name: Personality
     topics:
-      - Topic 2A
-      - Topic 2B
-      - Topic 2C
-      - Topic 2D
+      - Copes with humor
+      - Loves to overshare
 
-  - name: Certification 3
+  - name: Injuries
     topics:
-      - Topic 3A
-      - Topic 3B
-      - Topic 3C
-      - Topic 3D
+      - Ankle via Staicase (November, 2014)
+      - Wrist via Snowboard (December, 2015)
+      - ACL  via Skis (December, 2022)
